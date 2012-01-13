@@ -1,2 +1,13 @@
 This project aims to provide an online gaming service for various board games.
-Testing
+
+**Git control instructions**
+
+To get the newest code:
+git pull
+
+To save your changes to the repository:
+git commit file-name -m "message"
+git push
+--or for all changed files--
+git commit -a -m "message"
+git push
