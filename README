@@ -1,3 +1,18 @@
 This project aims to provide an online gaming service for various board games.
-123
-and
+
+**Git control instructions**
+http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
+
+To get the newest code:
+git pull
+
+To save your changes to the repository:
+git commit file-name -m "message"
+git push
+--or for all changed files--
+git commit -a -m "message"
+git push
+
+To add a new file:
+git add file-name
+git push
